@@ -1,2 +1,2 @@
 # MyGitRepo
-I am tessting this repository
+I am testing this repository
